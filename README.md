@@ -15,14 +15,12 @@ stickers
 I'm Laxman !
 - 5th Year Dual (B.Tech + M.Tech in Computer Science and Engineering) Student __Indian Institute of Technology, Delhi__,  At present, living in New Delhi.
 - Enthusiastic to learn new technologies and exploring more to upskill my knowledge.
-# Check out my [webpage](https://laxman824.github.io/) to know more about me.
- <img align="right" alt="GIF" src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/lucky.gif"  />
 <!-- <summary><b>Lamxan's Git Stats</b></summary> -->
 <br/>
 <p align="center">
-	<a href="https://github.com/Laxman824">
-	<img width="49.5%" src=https://github-readme-stats.vercel.app/api?username=Laxman824&theme=buefy&show_icons=true">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Laxman824" alt="Laxman824">
+	<a href="https://github.com/ajaygugul8">
+	<img width="49.5%" src=https://github-readme-stats.vercel.app/api?username=ajaygugul8&theme=buefy&show_icons=true">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaygugul8" alt="ajaygugul8">
 	</a>
 	
  <img align="right" alt="GIF" src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/code.gif?raw=true" width="500" height="320" />
