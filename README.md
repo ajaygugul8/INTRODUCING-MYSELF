@@ -13,7 +13,7 @@ stickers
 </p>
 
 I'm Ajay.G !
-- Graduated, (B.Tech + M.Tech in Mathematics and Computing) from __Indian Institute of Technology, Delhi__,  At present, living in New Delhi.
+- Graduated, (M.Tech in Mathematics and Computing) from __Indian Institute of Technology, Delhi__,  At present, living in New Delhi.
 - Enthusiastic to learn new technologies and exploring more to upskill my knowledge.
 <!-- <summary><b>Ajay's Git Stats</b></summary> -->
 <br/>
