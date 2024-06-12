@@ -12,9 +12,9 @@ stickers
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mathematics+and+Computing+Student;Quick%20Self%20Learner%20|%20Curious%20;Always%20learning%20new%20Tech's&width=500&height=50"></a>
 </p>
 
-I'm Ajay.G !
+I'm Guguloth Ajay Kumar !
 - Graduated, (M.Tech in Mathematics and Computing) from __Indian Institute of Technology, Delhi__,  At present, living in New Delhi.
-- Enthusiastic to learn new technologies and exploring more to upskill my knowledge.
+- Enthusiastic to learn new technologies and explore more to upskill my knowledge.
 <!-- <summary><b>Ajay's Git Stats</b></summary> -->
 <br/>
 <p align="center">
